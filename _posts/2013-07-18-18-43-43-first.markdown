@@ -1,2 +1,2 @@
-![Jekyll Logo](/img/jekyll.png)
+![Jekyll Logo](img/jekyll.png)
 # Foundation
