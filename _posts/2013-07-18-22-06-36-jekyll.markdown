@@ -1,3 +1,4 @@
+{% raw %} 
 <section>
 	<h1>JEKYLL</h1>
 	<ul>
@@ -8,3 +9,4 @@
 </ul>
 </section>
 <section><h2>kod</h2></section>
+{% endraw %}
