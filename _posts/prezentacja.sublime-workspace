@@ -1,0 +1,241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ma",
+				"match	match"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JSON"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wiernicd/Pobrane/reveal.js-2.4.0/_posts/2013-07-18-22-06-36-jekyll.markdown",
+		"/home/wiernicd/Pobrane/reveal.js-2.4.0/_posts/2013-07-18-21-22-54-foundation.markdown",
+		"/home/wiernicd/Pobrane/reveal.js-2.4.0/css/app.css",
+		"/home/wiernicd/Pobrane/reveal.js-2.4.0/_posts/2013-07-18-20-02-30-foundation.markdown",
+		"/home/wiernicd/Pobrane/reveal.js-2.4.0/_posts/2013-07-18-18-43-43-first.markdown",
+		"/home/wiernicd/Pobrane/reveal.js-2.4.0/index.html",
+		"/home/wiernicd/Pulpit/prezentacja/jekyll-foundation/_posts/2013-07-18-20-02-30-foundation.markdown",
+		"/home/wiernicd/Pulpit/prezentacja/jekyll-foundation/css/app.css",
+		"/home/wiernicd/Pulpit/prezentacja/jekyll-foundation/_layouts/default.html",
+		"/home/wiernicd/Pulpit/prezentacja/jekyll-foundation/_posts/2013-07-18-18-43-43-first.markdown",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/atom.xml",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/_config.yml",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/jekyllifoundation.sublime-workspace",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/jekyllifoundation.sublime-project",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/kontakt.html",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/css/normalize.css",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/index.html",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/tags.html",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/css/syntax.css",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/_layouts/post.html",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/css/app.css",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/_layouts/default.html",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/_includes/navbar.html",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/_layouts/page.html",
+		"/home/wiernicd/Pulpit/jekyll i foundation/tmp/test-blog/_posts/2013-07-14-welcome-to-jekyll.markdown",
+		"/home/wiernicd/Pulpit/jekyll i foundation/img/.gitkeep",
+		"/home/wiernicd/Pulpit/jekyll i foundation/post.html",
+		"/home/wiernicd/Pulpit/jekyll i foundation/index.html",
+		"/home/wiernicd/Pulpit/jekyll i foundation/Guardfile",
+		"/home/wiernicd/Pulpit/jekyll i foundation/css/app.css",
+		"/home/wiernicd/Pulpit/jekyll i foundation/js/app.js",
+		"/home/wiernicd/git/scalania/day1/src/file1.scala",
+		"/home/wiernicd/git/scalania/day1/file_no1.scala",
+		"/home/wiernicd/tmp/mmdm/my_new_project/source/index.html.haml",
+		"/home/wiernicd/tmp/mmdm/my_new_project/source/layouts/layout.haml",
+		"/home/wiernicd/tmp/mmdm/my_new_project/source/stylesheets/app.css.scss",
+		"/home/wiernicd/tmp/mmdm/my_new_project/source/javascripts/app.js.coffee",
+		"/home/wiernicd/tmp/mmdm/test/source/layouts/layout.erb",
+		"/home/wiernicd/tmp/mmdm/test/source/stylesheets/all.css",
+		"/home/wiernicd/tmp/mmdm/test/source/index.html.erb",
+		"/home/wiernicd/git/dmnk89.github.io/index.html",
+		"/home/wiernicd/git/dmnk89.github.io/_config.yml",
+		"/home/wiernicd/git/dmnk89.github.io/params.json",
+		"/home/wiernicd/git/dmnk89.github.io/erve"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"codehilite",
+			"column",
+			"columns",
+			"Six",
+			"six"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true
+}
